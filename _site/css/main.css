@@ -12,11 +12,11 @@ dl, dd, ol, ul, figure {
  */
 body {
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-  font-weight: 300;
-  color: #111111;
-  background-color: #fdfdfd;
+  font-size: 24px;
+  line-height: 1.8;
+  font-weight: 100;
+  color: #dddddd;
+  background-color: #282828;
   -webkit-text-size-adjust: 100%; }
 
 /**
@@ -42,7 +42,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 14px; }
+  font-size: 21px; }
 
 /**
  * Lists
@@ -60,16 +60,27 @@ li > ol {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300; }
 
+h1 {
+  color: #bead85;
+  font-family: 'Sorts Mill Goudy', serif;
+  font-size: 4rem; }
+
+h2 {
+  color: #b5ca8d; }
+
+h3 {
+  color: #69a2b0; }
+
 /**
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #ffd64b;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #fdc400; }
   a:hover {
-    color: #111111;
+    color: #dddddd;
     text-decoration: underline; }
 
 /**
@@ -166,8 +177,8 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111111;
-    line-height: 1.5; }
+    color: #dddddd;
+    line-height: 1.8; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
   @media screen and (max-width: 600px) {
@@ -175,7 +186,7 @@ pre {
       position: absolute;
       top: 9px;
       right: 30px;
-      background-color: #fdfdfd;
+      background-color: #282828;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
@@ -270,7 +281,7 @@ pre {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 14px;
+  font-size: 21px;
   color: #828282; }
 
 .post-link {
@@ -284,7 +295,6 @@ pre {
   margin-bottom: 30px; }
 
 .post-title {
-  font-size: 42px;
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (max-width: 800px) {

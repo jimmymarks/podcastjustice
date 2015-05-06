@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>How to listen to podcasts</title>
+    <title>How to Listen to Podcasts</title>
     <description>A handy guide for people who have never listened to podcasts and for the nerds who keep beggin them to.
 </description>
     <link>http://jimmymarks.github.io/</link>
     <atom:link href="http://jimmymarks.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 May 2015 14:35:59 -0400</pubDate>
-    <lastBuildDate>Mon, 04 May 2015 14:35:59 -0400</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Tue, 05 May 2015 21:54:35 -0400</pubDate>
+    <lastBuildDate>Tue, 05 May 2015 21:54:35 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
     
       <item>
         <title>Welcome to Jekyll!</title>
