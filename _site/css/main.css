@@ -52,7 +52,7 @@ ul, ol {
 
 li > ul,
 li > ol {
-  margin-bottom: 0; }
+  margin-bottom: 10px; }
 
 /**
  * Headings
@@ -76,12 +76,12 @@ h3 {
  */
 a {
   color: #FFD64B;
-  text-decoration: none; }
+  text-decoration: underline; }
   a:visited {
     color: #fdc400; }
   a:hover {
     color: #ddd;
-    text-decoration: underline; }
+    /* text-decoration: underline; */ }
 
 /**
  * Blockquotes
