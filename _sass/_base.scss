@@ -70,7 +70,7 @@ ul, ol {
 li {
     > ul,
     > ol {
-         margin-bottom: 0;
+         margin-bottom: 10px;
     }
 }
 
@@ -101,7 +101,7 @@ h3{
  */
 a {
     color: $brand-color;
-    text-decoration: none;
+    text-decoration: underline;
 
     &:visited {
         color: darken($brand-color, 15%);
@@ -109,7 +109,7 @@ a {
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
+        /* text-decoration: underline; */
     }
 }
 
