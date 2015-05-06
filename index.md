@@ -45,7 +45,7 @@ Simple, right? At that point, all you have to do is tap on the latest episode an
 
 When you're done listening to the first episode of your chosen podcast, you can get more episodes under the "Feed" tab. Simply tap "Feed" and then tap on the download cloud icon to get the episodes.
 
-<em 1>Gentle Reminder: Podcasts are like songs - they take up space on your device. If you're done listening, it's best to delete the episode. You can always download it again later on.</em 1>
+<em>Gentle Reminder: Podcasts are like songs - they take up space on your device. If you're done listening, it's best to delete the episode. You can always download it again later on.</em>
 
 Want to listen to all your downloaded podcast episodes in order, top to bottom? Go to "My Stations" and tap "All Unplayed". When one podcast is over, another will begin right behind it and they'll play until they're all gone.
 
