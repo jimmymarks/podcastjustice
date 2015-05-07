@@ -11,12 +11,12 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Sorts Mill Goudy", serif;
   font-size: 24px;
   line-height: 1.8;
   font-weight: 100;
-  color: #ddd;
-  background-color: #282828;
+  color: #221D23;
+  background-color: #FFEFE0;
   -webkit-text-size-adjust: 100%; }
 
 /**
@@ -58,30 +58,48 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 300; }
+  font-weight: 300;
+  font-family: 'Josefin Slab', serif; }
 
 h1 {
-  color: #bead85;
-  font-family: 'Sorts Mill Goudy', serif;
+  color: #B3001B;
   font-size: 4rem; }
 
 h2 {
-  color: #b5ca8d; }
+  color: #255C99;
+  font-size: 3.1rem;
+  line-height: 3.3rem; }
 
 h3 {
-  color: #69A2B0; }
+  color: #7EA3CC;
+  font-size: 2.75rem; }
+
+p, li {
+  font-size: 1.4rem; }
 
 /**
  * Links
  */
 a {
-  color: #FFD64B;
+  color: #B3001B;
   text-decoration: underline; }
-  a:visited {
-    color: #fdc400; }
   a:hover {
-    color: #ddd;
+    color: #ff0027;
     /* text-decoration: underline; */ }
+
+.button-link {
+  background-color: #B3001B;
+  padding: 30px;
+  color: #fff;
+  border-radius: 20px;
+  display: table-cell;
+  margin: 20px auto;
+  font-family: 'Josefin Slab', serif;
+  font-size: 2rem;
+  text-decoration: none; }
+  .button-link:hover {
+    background-color: #66000f;
+    color: #fff; }
 
 /**
  * Blockquotes
@@ -177,7 +195,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #ddd;
+    color: #221D23;
     line-height: 1.8; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
@@ -186,7 +204,7 @@ pre {
       position: absolute;
       top: 9px;
       right: 30px;
-      background-color: #282828;
+      background-color: #FFEFE0;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
@@ -301,24 +319,34 @@ pre {
     .post-title {
       font-size: 36px; } }
 
-.post-content {
-  margin-bottom: 30px; }
-  .post-content h2 {
-    font-size: 32px; }
-    @media screen and (max-width: 800px) {
-      .post-content h2 {
-        font-size: 28px; } }
-  .post-content h3 {
-    font-size: 26px; }
-    @media screen and (max-width: 800px) {
-      .post-content h3 {
-        font-size: 22px; } }
-  .post-content h4 {
-    font-size: 20px; }
-    @media screen and (max-width: 800px) {
-      .post-content h4 {
-        font-size: 18px; } }
+/* .post-content {
+    margin-bottom: $spacing-unit;
 
+    h2 {
+        font-size: 32px;
+
+        @include media-query($on-laptop) {
+            font-size: 28px;
+        }
+    }
+
+    h3 {
+        font-size: 26px;
+
+        @include media-query($on-laptop) {
+            font-size: 22px;
+        }
+    }
+
+    h4 {
+        font-size: 20px;
+
+        @include media-query($on-laptop) {
+            font-size: 18px;
+        }
+    }
+}
+ */
 /**
  * Syntax highlighting styles
  */

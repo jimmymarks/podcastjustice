@@ -6,21 +6,22 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: 'Sorts Mill Goudy', serif; //Helvetica, Arial, sans-serif;
 $base-font-size:   24px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.8;
 
 $spacing-unit:     30px;
 
-$text-color:       #ddd;
-$background-color: #282828;
-$brand-color:      #FFD64B;
+$text-color:       #221D23; //#ddd;
+$background-color: #FFEFE0; //#ddd; //#282828;
+$brand-color:      #B3001B;
 
-$h1color: #bead85;
-$h2color: #b5ca8d;
-$h3color: #69A2B0;
+$h1color: #B3001B;
+$h2color: #255C99;
+$h3color: #7EA3CC;
 
+$purewhite:        #fff;
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
