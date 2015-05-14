@@ -3,7 +3,7 @@ title: How to Listen to Podcasts
 email: jimmy@jimmymarks.com
 description: > # this means to ignore newlines until "baseurl:"
   A handy guide for people who have never listened to podcasts and for the nerds who keep begging them to.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "http://jimmymarks.github.io/podcastjustice" # the subpath of your site, e.g. /blog/
 url: "http://jimmymarks.github.io/podcastjustice" # the base hostname & protocol for your site
 
 
