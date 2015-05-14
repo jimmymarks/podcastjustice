@@ -11,12 +11,12 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: "Sorts Mill Goudy", serif;
+  font-family: "Roboto", sans-serif;
   font-size: 24px;
   line-height: 1.8;
   font-weight: 100;
-  color: #221D23;
-  background-color: #FFEFE0;
+  color: #777;
+  background-color: #ffffff;
   -webkit-text-size-adjust: 100%; }
 
 /**
@@ -58,24 +58,24 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 300;
-  font-family: 'Josefin Slab', serif; }
+  font-weight: bold;
+  font-family: "Roboto", sans-serif; }
 
 h1 {
-  color: #B3001B;
+  color: black;
   font-size: 4rem; }
 
 h2 {
-  color: #255C99;
+  color: #444444;
   font-size: 3.1rem;
   line-height: 3.3rem; }
 
 h3 {
-  color: #7EA3CC;
+  color: #5e5e5e;
   font-size: 2.75rem; }
 
 p, li {
-  font-size: 1.4rem; }
+  font-size: 1.3rem; }
 
 /**
  * Links
@@ -87,14 +87,17 @@ a {
     color: #ff0027;
     /* text-decoration: underline; */ }
 
+.breather {
+  margin: 4rem 0px; }
+
 .button-link {
   background-color: #B3001B;
   padding: 30px;
   color: #fff;
   border-radius: 20px;
   display: table-cell;
-  margin: 20px auto;
-  font-family: 'Josefin Slab', serif;
+  margin: 30px auto;
+  font-family: "Roboto", sans-serif;
   font-size: 2rem;
   text-decoration: none; }
   .button-link:hover {
@@ -175,7 +178,7 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
+  border-top: 5px solid #292929;
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   position: relative; }
@@ -187,7 +190,7 @@ pre {
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #424242; }
+    color: #292929; }
 
 .site-nav {
   float: right;
@@ -195,7 +198,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #221D23;
+    color: #777;
     line-height: 1.8; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
@@ -204,7 +207,7 @@ pre {
       position: absolute;
       top: 9px;
       right: 30px;
-      background-color: #FFEFE0;
+      background-color: #ffffff;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
@@ -220,7 +223,7 @@ pre {
           width: 18px;
           height: 15px; }
           .site-nav .menu-icon > svg path {
-            fill: #424242; }
+            fill: #292929; }
       .site-nav .trigger {
         clear: both;
         display: none; }
@@ -236,7 +239,8 @@ pre {
  */
 .site-footer {
   border-top: 1px solid #e8e8e8;
-  padding: 30px 0; }
+  padding: 30px 0;
+  background-color: #292929; }
 
 .footer-heading {
   font-size: 18px;
@@ -311,6 +315,9 @@ pre {
  */
 .post-header {
   margin-bottom: 30px; }
+
+.post-header img {
+  margin-bottom: 5rem; }
 
 .post-title {
   letter-spacing: -1px;

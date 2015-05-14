@@ -94,6 +94,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background-color: $grey-color-dark;
 }
 
 .footer-heading {
@@ -195,6 +196,10 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+}
+
+.post-header img{
+    margin-bottom: 5rem;
 }
 
 .post-title {

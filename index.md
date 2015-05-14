@@ -6,7 +6,7 @@ permalink: /
 
 ## The guide you never knew you needed for the thing you never knew you wanted.
 
-<p align="center"><a href="#boooring" class="button-link">Ugh, get to the good part.</a></p>
+<p align="center" class="breather"><a href="#boooring" class="button-link">Ugh, get to the good part.</a></p>
 
 Let me guess...you loved *[Serial] [1]*.
 

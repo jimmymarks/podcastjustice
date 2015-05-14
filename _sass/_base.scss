@@ -81,7 +81,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
-    font-family: 'Josefin Slab', serif;//'Sorts Mill Goudy', serif;
+    font-family: $base-font-family; //'Sorts Mill Goudy', serif;
 }
 
 h1{
@@ -120,14 +120,16 @@ a {
     }
 }
 
+.breather{margin: 4rem 0px;}
+
 .button-link{
   background-color: $brand-color;
   padding: 30px;
   color: $purewhite;
   border-radius: 20px;
   display: table-cell;
-  margin: 20px auto;
-  font-family: 'Josefin Slab', serif;
+  margin: 30px auto;
+  font-family: $base-font-family;
   font-size: 2rem;
   text-decoration: none;
 
