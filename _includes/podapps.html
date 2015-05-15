@@ -1,0 +1,9 @@
+<ul class="threeblock-columns">
+{% for app in site.data.apps %}
+  <li>
+  <a href="{{ app.podurl }}">
+    <img src="{{ app.imgurl }}" alt="{{ app.name }}">
+  </a>
+  </li>
+{% endfor %}
+</ul>

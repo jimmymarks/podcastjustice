@@ -1,0 +1,9 @@
+<ul class="threeblock-columns">
+{% for podcast in site.data.podcasts %}
+  <li>
+  <a href="{{ podcast.podurl }}">
+    <img src="{{ podcast.imgurl }}" alt="{{ podcast.name }}">
+  </a>
+  </li>
+{% endfor %}
+</ul>

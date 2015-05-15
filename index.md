@@ -85,7 +85,7 @@ I don't know that there's much more to know. You get an app, you subscribe to po
 
 ###1. Download a Podcast App
 
-TKTKTK Images of p-cast apps
+{% include podapps.html %}
 
 ###2. Subscribe to a Podcast
 
@@ -93,7 +93,7 @@ TKTKTK Screenshots of downloads
 
 ###3. Sample a Few Favorites
 
-TKTKTK My favorite p-casts
+{% include podthumbs.html %}
 
 ###4. Next Steps
 
