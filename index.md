@@ -10,13 +10,13 @@ permalink: /
 
 Let me guess...you loved *[Serial] [1]*.
 
-It was bold, riveting, engrossing, and rage-inducing entertainment. But when it came out, you had a lot of questions for your nerd friends. Questions like, "How in the Hell am I supposed to listen to this thing? What is a podcast? How do I do it? Do I pay? Do I have to donate to NPR? Did Adnan really do it?"
+It was bold, riveting, engrossing entertainment. But when it came out, you had a lot of questions for your nerd friends. Questions like, "How in the Hell am I supposed to listen to this thing? What is a podcast? How do I do it? Do I pay? Do I have to donate to NPR? Did Adnan really do it?"
 
 And I'm guessing (understand, this is all hypothetical) that your nerd friends rolled their beady little eyes at you, because \*pfft\*, they don't want to get into a whole *thing* here. They probably recommended a lot of funny-sounding apps that actually cost *money*, what?! That's ridiculous.
 
-Yes, your nerd friends have been listening to podcasts for many years. Yes, they paid for fancy apps to make listening to and managing new podcasts easier. No, you don't have to buy anything if you don't want to. Yes, there's a barrier to entry for podcasts, because they're a little hard to understand at first.
+Yes, your nerd friends have been listening to podcasts for many years. Yes, they paid for fancy apps to make listening to and managing new podcasts easier. No, you don't have to buy anything if you don't want to.
 
-That's why I made this dumb little website - so you can leave your self-important nerdy friends to their IRC groups and their fancy headphones and get down to business. And so...
+That's why I made this dumb little website - so you can leave your self-important nerdy friends to their Dungeons & Dragons and their fancy headphones and get down to business. And so...
 
 <a id="boooring"></a>
 
@@ -67,6 +67,8 @@ As a big dumb nerd, I can tell you I love the following podcasts and listen to t
 * [Never Not Funny] [10] __§__ - Jimmy Pardo is easily one of the funniest people in America. Each week, he sits down with a colleague from the world of comedy and yells at his Intern/video producer for their gross incompetence. You'll be quoting Pardo from the first time you listen and laughing every week thereafter.
 * [Song Exploder] [11] - Hrishikesh Hirway (Ree-shee-kesh Her-way) is a musical genius (and one Hell of a nice guy). With each episode, he breaks down a song into its component parts and talks to the artist about why they chose the instruments, melodies and themes that make up the finished product.
 * [Jordan, Jesse GO!] [12] __§__ - Jordan Morris and Jesse Thorn are two pals who are funny. They laugh and joke with all sorts of alt-comedy friends.
+* [99% Invisible] [15] - Roman Mars has created one of the most interesting programs in podcasting. His show is all about the "Built World," including art, music, architecture, engineering and technology. Mars and his editors consistently deliver a great program that will often leave you with a great appreciation of the simple things you encounter each and every day.
+* [RadioLab] [16] - This is an NPR Podcast that is not unlike This American Life - great stories told by smart people. Jad Abumrad and Robert Krulwich do a wonderful job of telling stories and acting as audience surrogates. 
 
 Many of these are funny. Some are serious. All are free.
 
@@ -114,3 +116,5 @@ TKTKTK Circle-jerk, Overcast/Downcast, Donations, Make Your Own
 [12]: http://www.maximumfun.org/shows/jordan-jesse-go
 [13]: https://overcast.fm
 [14]: http://www.downcastapp.com
+[15]: http://99pi.org
+[16]: http://www.radiolab.org/
