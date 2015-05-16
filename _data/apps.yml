@@ -1,11 +1,11 @@
 - name: Podcasts App
-  imgurl: /images/podcastsicon.png
+  imgurl: images/podcastsicon.png
   podurl: https://itunes.apple.com/us/app/podcasts/id525463029?mt=8
 
 - name: Overcast
-  imgurl: /images/overcastfmlogo.jpg
+  imgurl: images/overcastfmlogo.jpg
   podurl: http://overcast.fm
 
 - name: Downcast
-  imgurl: /images/downcasticon.png
+  imgurl: images/downcasticon.png
   podurl: http://www.downcastapp.com
