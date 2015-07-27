@@ -56,6 +56,8 @@ li > ol {
 
 .threeblock-columns, .fourblock-columns {
   margin: 0px; }
+  .threeblock-columns a, .threeblock-columns img, .fourblock-columns a, .fourblock-columns img {
+    border: 0px; }
 
 .threeblock-columns li {
   float: left;
