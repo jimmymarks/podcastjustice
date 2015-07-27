@@ -28,11 +28,11 @@ There are many different podcast apps that will scratch a variety of itches. The
 
 __All you have to do is:__
 
-1. Go to the App Store app on your iDevice, or to some other thing on some other device (I really don't know much about Android. If you feel there should be an Android version of this guide, go make it with my blessing. I'll link to it, if you do.)
+1. If you don't already have Podcasts installed (you should, though), __go to the App Store app on your iDevice__, or to some other thing on some other device (I really don't know much about Android. If you feel there should be an Android version of this guide, go make it with my blessing. I'll link to it, if you do.)
 1. Enter "Podcast" into the search bar. [Apple's Podcasts app] [2] should show up first.
 1. Tap "Get" and the app will download to your iDevice.
 1. Open the app. You'll see a few different buttons at the bottom of the app, one of which is "Featured". Click the "Featured" button and you'll see a handful of apps that Apple recommends.
-1. Start browsing around using "Featured" or "Top Charts". If you have a particular topic of interest, enter it on the "Search" screen.
+1. Start browsing around using "Featured" or "Top Charts". If you have a particular topic of interest, __enter it on the "Search" screen__.
 
 ###2. Subscribe to a Podcast
 
