@@ -49,6 +49,8 @@ When you're done listening to the first episode of your chosen podcast, you can 
 
 Want to listen to all your downloaded podcast episodes in order, top to bottom? Go to "My Stations" and tap "All Unplayed". When one podcast is over, another will begin right behind it and they'll play until they're all gone.
 
+<p align="center" class="breather"><a href="#somuchreading" class="button-link">Too long, getting bored...</a></p>
+
 ###3. What Podcasts Would I Like?
 
 Podcasts are like lunch specials at a diner; they happen weekly, they vary in substance, and they're subject to taste. What I can tell you is that if you have one particular interest, there's a podcast for it. Using "Search" and "Featured" functions in the Podcasts app will get you started and, from there, you can see what iTunes recommends.
@@ -68,7 +70,7 @@ As a big dumb nerd, I can tell you I love the following podcasts and listen to t
 * [Song Exploder] [11] - Hrishikesh Hirway (Ree-shee-kesh Her-way) is a musical genius (and one Hell of a nice guy). With each episode, he breaks down a song into its component parts and talks to the artist about why they chose the instruments, melodies and themes that make up the finished product.
 * [Jordan, Jesse GO!] [12] __§__ - Jordan Morris and Jesse Thorn are two pals who are funny. They laugh and joke with all sorts of alt-comedy friends.
 * [99% Invisible] [15] - Roman Mars has created one of the most interesting programs in podcasting. His show is all about the "Built World," including art, music, architecture, engineering and technology. Mars and his editors consistently deliver a great program that will often leave you with a great appreciation of the simple things you encounter each and every day.
-* [RadioLab] [16] - This is an NPR Podcast that is not unlike This American Life - great stories told by smart people. Jad Abumrad and Robert Krulwich do a wonderful job of telling stories and acting as audience surrogates. 
+* [RadioLab] [16] - This is an NPR Podcast that is not unlike This American Life - great stories told by smart people. Jad Abumrad and Robert Krulwich do a wonderful job of telling stories and acting as audience surrogates.
 
 Many of these are funny. Some are serious. All are free.
 
@@ -83,6 +85,8 @@ I don't know that there's much more to know. You get an app, you subscribe to po
 
 ##"I'm still not sure I understand..."
 
+<a id="somuchreading" name="somuchreading"></a>
+
 *Damn* but you're making this difficult. Okay, here we go, just the broadstrokes:
 
 ###1. Download a Podcast App
@@ -91,7 +95,11 @@ I don't know that there's much more to know. You get an app, you subscribe to po
 
 ###2. Subscribe to a Podcast
 
-TKTKTK Screenshots of downloads
+<ul class="finalicons">
+  <li><img src="/images/poddown3.PNG" alt="Step 1" title="" />Step 1: Search for your show, click subscribe</li>
+  <li><img src="/images/poddown2.PNG" alt="Step 2" title="" />Step 2: Go to "My Podcasts"</li>
+  <li><img src="/images/poddown1.PNG" alt="Step 3" title="" />Step 3: Download and start listening!</li>
+</ul>
 
 ###3. Sample a Few Favorites
 
@@ -99,7 +107,12 @@ TKTKTK Screenshots of downloads
 
 ###4. Next Steps
 
-TKTKTK Circle-jerk, Overcast/Downcast, Donations, Make Your Own
+<ul class="finalicons">
+  <li> <img src="/images/podc_talk_logo.png" alt="Tell your friends" title="" /> Tell your friends!</li>
+  <li> <img src="/images/podc_upgrade_logo.png" alt="Upgrade your podcatcher" title="" /> Upgrade your podcast app!</li>
+  <li> <img src="/images/podc_money_logo.png" alt="Give your faves some money" title="" /> Give your faves some money!</li>
+  <li> <img src="/images/podc_mic_logo.png" alt="Make your own, how bout it" title="" /> Make your own, how 'bout it?</li>
+</ul>
 
 [ugh]: #boooring
 [1]: http://serialpodcast.com

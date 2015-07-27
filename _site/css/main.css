@@ -54,7 +54,7 @@ li > ul,
 li > ol {
   margin-bottom: 10px; }
 
-.threeblock-columns {
+.threeblock-columns, .fourblock-columns {
   margin: 0px; }
 
 .threeblock-columns li {
@@ -65,6 +65,21 @@ li > ol {
   /* = width for a 1:1 aspect ratio */
   margin: 1.66%;
   overflow: hidden; }
+
+.fourblock-columns li {
+  float: left;
+  position: relative;
+  width: 20%;
+  padding-bottom: 1%;
+  margin: 2.5%;
+  overflow: hidden; }
+
+.finalicons li {
+  display: block; }
+  .finalicons li img {
+    width: 30%;
+    height: 30%;
+    margin: 0 5% 5% 0; }
 
 /**
  * Headings
