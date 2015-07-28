@@ -64,9 +64,11 @@ As a big dumb nerd, I can tell you I love the following podcasts and listen to t
 * [The Flophouse] [5] - Three guys in New York who write comic books and *The Daily Show* watch bad movies and drink brew dogs. Great for MST3k fans.
 * [Back to Work] [6] - The aforementioned Merlin Mann talks with Dan Benjamin about how to quit being such a titty baby and get your work done, whatever that work may be.
 * [Judge John Hodgman] [7] - John Hodgman listens to the cases the Supreme Court is too narrow-minded to consider. Is chili a soup or a stew? Is a machine gun considered a robot? When should you tell your kids the truth about Santa? Hodgman rules on all of it.
+* [Oh No, Ross and Carrie!] [18] - Ross and Carrie go undercover to learn about cults, fringe groups, weird diets, self-help scams, and much more. It's somewhere between "Fascinating" and "Terrifying".
 * [Decode DC] [8] - Andrea Seabrook finds out what makes DC tick. It's smart, interesting reporting done by a real professional and you'll learn a lot about this country's lawmakers and its citizens.
 * [Stop Podcasting Yourself] [9] __§__ - Two Canadian guys do some crazy talkin'. Come for the jokes, stay tuned for Hulk Hogan News!
 * [Never Not Funny] [10] __§__ - Jimmy Pardo is easily one of the funniest people in America. Each week, he sits down with a colleague from the world of comedy and yells at his Intern/video producer for their gross incompetence. You'll be quoting Pardo from the first time you listen and laughing every week thereafter.
+* [Pop Rocket] [17] - Guy Branum, Wynter Mitchell, Margaret Wappler, and Oliver Wang bring the heat every week and tell me which of my many privileges I ought to be checking.
 * [Song Exploder] [11] - Hrishikesh Hirway (Ree-shee-kesh Her-way) is a musical genius (and one Hell of a nice guy). With each episode, he breaks down a song into its component parts and talks to the artist about why they chose the instruments, melodies and themes that make up the finished product.
 * [Jordan, Jesse GO!] [12] __§__ - Jordan Morris and Jesse Thorn are two pals who are funny. They laugh and joke with all sorts of alt-comedy friends.
 * [99% Invisible] [15] - Roman Mars has created one of the most interesting programs in podcasting. His show is all about the "Built World," including art, music, architecture, engineering and technology. Mars and his editors consistently deliver a great program that will often leave you with a great appreciation of the simple things you encounter each and every day.
@@ -131,3 +133,5 @@ I don't know that there's much more to know. You get an app, you subscribe to po
 [14]: http://www.downcastapp.com
 [15]: http://99pi.org
 [16]: http://www.radiolab.org/
+[17]: http://www.maximumfun.org/shows/pop-rocket
+[18]: http://ohnopodcast.com

@@ -18,6 +18,10 @@
   imgurl: images/podthumbs8.jpg
   podurl: http://www.maximumfun.org/shows/judge-john-hodgman
 
+- name: Oh No, Ross and Carrie!
+  imgurl: images/podthumb_onrc.jpg
+  podurl: http://ohnopodcast.com
+
 - name: Decode DC
   imgurl: images/podthumbs4.jpg
   podurl: http://www.decodedc.com
@@ -29,6 +33,10 @@
 - name: Never Not Funny
   imgurl: images/podthumbs11.jpg
   podurl: http://pardcast.com
+
+- name: Pop Rocket
+  imgurl: images/podthumb_prock.png
+  podurl: http://www.maximumfun.org/shows/pop-rocket
 
 - name: Song Exploder
   imgurl: images/podthumbs2.png
