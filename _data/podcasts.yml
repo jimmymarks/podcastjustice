@@ -53,3 +53,7 @@
 - name: 99% Invisible
   imgurl: images/podthumbs5.jpg
   podurl: http://99pi.org
+
+- name: Serial
+  imgurl: images/podthumb_serial.jpg
+  podurl: http://serialpodcast.org
