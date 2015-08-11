@@ -31,7 +31,7 @@ __All you have to do is:__
 1. If you don't already have Podcasts installed (you should, though), __go to the App Store app on your iDevice__, or to some other thing on some other device (I really don't know much about Android. If you feel there should be an Android version of this guide, go make it with my blessing. I'll link to it, if you do.)
 1. Enter "Podcast" into the search bar. [Apple's Podcasts app] [2] should show up first.
 1. Tap "Get" and the app will download to your iDevice.
-1. Open the app. You'll see a few different buttons at the bottom of the app, one of which is "Featured". Click the "Featured" button and you'll see a handful of apps that Apple recommends.
+1. Open the app. You'll see a few different buttons at the bottom of the app, one of which is "Featured". Click the "Featured" button and you'll see a handful of podcasts that Apple recommends.
 1. Start browsing around using "Featured" or "Top Charts". If you have a particular topic of interest, __enter it on the "Search" screen__.
 
 ###2. Subscribe to a Podcast
@@ -65,9 +65,11 @@ As a big dumb nerd, I can tell you I love the following podcasts and listen to t
 * [Back to Work] [6] - The aforementioned Merlin Mann talks with Dan Benjamin about how to quit being such a titty baby and get your work done, whatever that work may be.
 * [Judge John Hodgman] [7] - John Hodgman listens to the cases the Supreme Court is too narrow-minded to consider. Is chili a soup or a stew? Is a machine gun considered a robot? When should you tell your kids the truth about Santa? Hodgman rules on all of it.
 * [Oh No, Ross and Carrie!] [18] __§__ - Ross and Carrie go undercover to learn about cults, fringe groups, weird diets, self-help scams, and much more. It's somewhere between "Fascinating" and "Terrifying".
+* [Another Round] [20] __§__ - If you're an African-American lady (or a woman of any color...or just a woman, honestly), you will love Heben and Tracy's take on the world and their frank, informative, *incredibly* funny segments (including the one where they go up to white guys and ask them if they like squirrels, a segment I laughed at for roughly seventeen minutes) and interviews with all kinds of interesting, passionate, smart guests. I'm the first to admit that I'm not the intended audience, but I learned a lot and laughed a lot.
 * [Decode DC] [8] - Andrea Seabrook finds out what makes DC tick. It's smart, interesting reporting done by a real professional and you'll learn a lot about this country's lawmakers and its citizens.
 * [Stop Podcasting Yourself] [9] __§__ - Two Canadian guys do some crazy talkin'. Come for the jokes, stay tuned for Hulk Hogan News!
 * [Never Not Funny] [10] __§__ - Jimmy Pardo is easily one of the funniest people in America. Each week, he sits down with a colleague from the world of comedy and yells at his Intern/video producer for their gross incompetence. You'll be quoting Pardo from the first time you listen and laughing every week thereafter.
+* [Lady to Lady] [21] __§__ - This is a show where three ladies (Tess, Barbara and Brandie) do a lot of funny stuff with lots of funny guests and play sleepover games and I laugh so hard that the guy next to me on the train moves seats. This is a true story, and if the guy who moved away from me is reading this, know that I regret nothing.
 * [Pop Rocket] [17] __§__ - Guy Branum, Wynter Mitchell, Margaret Wappler, and Oliver Wang bring the heat every week and tell me which of my many privileges I ought to be checking.
 * [Song Exploder] [11] - Hrishikesh Hirway (Ree-shee-kesh Her-way) is a musical genius (and one Hell of a nice guy). With each episode, he breaks down a song into its component parts and talks to the artist about why they chose the instruments, melodies and themes that make up the finished product.
 * [Jordan, Jesse GO!] [12] __§__ - Jordan Morris and Jesse Thorn are two pals who are funny. They laugh and joke with all sorts of alt-comedy friends.
@@ -137,3 +139,5 @@ I don't know that there's much more to know. You get an app, you subscribe to po
 [17]: http://www.maximumfun.org/shows/pop-rocket
 [18]: http://ohnopodcast.com
 [19]: http://serialpodcast.org
+[20]: http://www.buzzfeed.com/anotherround/another-round-podcast-first-episode
+[21]: http://www.maximumfun.org/shows/lady-to-lady

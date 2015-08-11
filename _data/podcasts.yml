@@ -22,6 +22,10 @@
   imgurl: images/podthumb_onrc.jpg
   podurl: http://ohnopodcast.com
 
+- name: Another Round
+  imgurl: images/anotherround.jpg
+  podurl: http://www.buzzfeed.com/anotherround/another-round-podcast-first-episode
+
 - name: Decode DC
   imgurl: images/podthumbs4.jpg
   podurl: http://www.decodedc.com
@@ -33,6 +37,10 @@
 - name: Never Not Funny
   imgurl: images/podthumbs11.jpg
   podurl: http://pardcast.com
+
+- name: Lady to Lady
+  imgurl: images/lady2lady.jpg
+  podurl: http://www.maximumfun.org/shows/lady-to-lady
 
 - name: Pop Rocket
   imgurl: images/podthumb_prock.png
