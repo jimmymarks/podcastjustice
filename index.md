@@ -26,9 +26,9 @@ Podcasts are almost always free, with a few exceptions. You can listen to podcas
 
 How can I help get you started? 
 
-[Convince me to like podcasts](#convinceMe)  
-[I don't know what app to use](#apps) 
-[I want some show recommendations](#recommendations)  
+* [Convince me to like podcasts](#convinceMe)
+* [I don't know what app to use](#apps) 
+* [I want some show recommendations](#recommendations)  
 
 ## Convince Me to Like Podcasts
 
